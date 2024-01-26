@@ -1,0 +1,15 @@
+.maxWidth {
+    max-width: 250px;
+}
+
+.container {
+    padding-bottom: 2rem;
+}
+
+.inlineButton {
+    display: inline;
+    background: none;
+    border: none;
+    text-decoration: underline;
+    cursor: pointer;
+}

@@ -9,14 +9,20 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@mantine/core": "^7.5.0",
+    "@mantine/dropzone": "^7.5.0",
+    "@tabler/icons-react": "^2.46.0",
+    "ky": "^1.2.0",
+    "next": "14.1.0",
+    "pdf2pic": "^3.1.1",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.1.0"
+    "react-image-crop": "^11.0.5"
   },
   "devDependencies": {
-    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
-    "@types/react-dom": "^18"
+    "@types/react-dom": "^18",
+    "typescript": "^5"
   }
 }
